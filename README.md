@@ -62,3 +62,12 @@ Gestión de clientes, pagos e intereses
 ---
 
 ⭐ Construyendo soluciones reales paso a paso
+
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingpayano89&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingpayano89&layout=compact&theme=dark)
