@@ -65,8 +65,6 @@ Gestión de clientes, pagos e intereses
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingpayano89&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingpayano89&layout=compact)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ingpayano89&theme=github_dark)
