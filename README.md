@@ -56,8 +56,8 @@ Gestión de clientes, pagos e intereses
 
 ## 📫 Contacto
 
-📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
-💼 LinkedIn: (agrega tu link aquí)
+📧 Email: [ing.payano89@gmail.com)
+💼 LinkedIn: ([agrega tu link aquí](https://www.linkedin.com/in/francisco-jos%C3%A9-payano-polanco-7a13692a2/))
 
 ---
 
