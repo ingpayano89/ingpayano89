@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco Payano
 
-<!--
-**ingpayano89/ingpayano89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Sistemas
+🚀 Desarrollador enfocado en soluciones reales
+📍 República Dominicana
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy desarrollador con enfoque en crear sistemas que resuelvan problemas reales.
+Me interesa especialmente el desarrollo de software, sistemas empresariales y la inteligencia artificial.
+
+---
+
+## 🛠️ Tecnologías
+
+💻 Lenguajes
+
+* Python
+* JavaScript
+
+🌐 Desarrollo
+
+* HTML, CSS
+* React Native
+* APIs REST
+* CRUD
+
+🧰 Herramientas
+
+* Git & GitHub
+* Visual Studio Code
+* Android Studio
+* SQL
+
+---
+
+## 🚀 Proyectos
+
+🔹 Sistema de Gestión de Gimnasio
+Aplicación para administración de miembros, pagos y seguimiento
+
+🔹 Sistema de Préstamos
+Gestión de clientes, pagos e intereses
+
+---
+
+## 📈 Actualmente aprendiendo
+
+* Inteligencia Artificial
+* Machine Learning
+* Arquitecturas de software
+
+---
+
+## 📫 Contacto
+
+📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+💼 LinkedIn: (agrega tu link aquí)
+
+---
+
+⭐ Construyendo soluciones reales paso a paso
